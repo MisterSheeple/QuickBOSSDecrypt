@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@pretendonetwork/boss-crypto": "^1.2.2"
+  },
+  "bin": {
+    "execute": "QuickBOSSDecrypt.js"
+  },
+  "name": "QuickBOSSDecrypt"
+}
